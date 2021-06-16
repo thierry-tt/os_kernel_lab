@@ -2,3 +2,9 @@
 os/target/*
 os/.idea/*
 Cargo.lock
+
+labcodes/**/bin/*
+labcodes/**/obj/*
+
+labcodes_answer/**/bin/*
+labcodes_answer/**/obj/*
